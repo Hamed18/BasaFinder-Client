@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[/logo.png](https://basafinder-frontend-nextjs-project.vercel.app/favicon/logo2.svg)" alt="BasaFinder Logo" width="200"/>
-</p>
-
 <h1 align="center">🏡 BasaFinder - Smart Rental & Housing Solution (Client)</h1>
 
 <p align="center">
