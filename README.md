@@ -12,7 +12,7 @@
 
 ## 🌐 Live Site
 
-👉 [https://basa-finder-psi.vercel.app/](https://basa-finder-psi.vercel.app/)
+👉 [https://basa-finder-psi.vercel.app/](https://basafinder-frontend-nextjs-project.vercel.app/)
 
 ---
 
